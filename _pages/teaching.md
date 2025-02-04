@@ -24,7 +24,7 @@ _Fall 2024_
       Selections of techniques for Log-Linearization: <i>forthcoming</i> 
     </li>
     <li>
-      Intro to Dynamic Programming and VFI: <a href="/files/QM1_S1_NGM_shooting.pdf" style="color: #3b3b3b;">slides</a>
+      Intro to Dynamic Programming and VFI: <a href="/files/QM1_S3_Consav_DP_VFI.pdf" style="color: #3b3b3b;">slides</a>
     </li>
     <li>
       Endogenous Grid Method: <i>forthcoming</i> 
