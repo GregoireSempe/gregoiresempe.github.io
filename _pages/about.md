@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second year Ph.D. candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and Université Paris 1 Panthéon - Sorbonne, advised by [Katheline Schubert](https://www.parisschoolofeconomics.eu/en/people/katheline-schubert/). 
 
-From April to July 2025, I will join the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm as a Visiting Graduate Student, hosted by [John Hassler](http://hassler-j.iies.su.se/).
+In the Spring 2025, I visited the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm, hosted by [John Hassler](http://hassler-j.iies.su.se/).
 
 My research focuses on environmental macroeconomics, with an emphasis on the study of the impacts of climate policies. 
 I build heterogeneous agent models to study the drivers of climate policy acceptability.
