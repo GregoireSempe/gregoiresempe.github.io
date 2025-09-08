@@ -10,7 +10,7 @@ Currently, I am mostly involved in teaching quantitative methods and environment
 
 **Quantitative Macroeconomics I (M2 APE)**  
 Paris School of Economics -- Tutorials for Tobias Broer     
-_Fall 2024_
+_Fall 2024, 2025_
 <details style="padding-bottom: 12px; color: #3b3b3b;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 12px;"> Teaching resources...</summary>
     <ul style="color: #3b3b3b; font-size: 0.85em;">
@@ -37,7 +37,7 @@ _Fall 2024_
 
 **Introduction to Environmental Economics**    
 École Normale Supérieure, CERES -- Lecturer    
-_Fall 2024_
+_Fall 2024, 2025_
 
 **Advanced Macroeconomics**  
 Université Paris Dauphine - Tutorials for Abdelkader Slifi    

@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and Université Paris 1 Panthéon - Sorbonne, advised by [Katheline Schubert](https://www.parisschoolofeconomics.eu/en/people/katheline-schubert/). 
-
-In the Spring 2025, I visited the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm, hosted by [John Hassler](http://hassler-j.iies.su.se/).
+I'm a third year Ph.D. candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and Université Paris 1 Panthéon - Sorbonne, advised by [Katheline Schubert](https://www.parisschoolofeconomics.eu/en/people/katheline-schubert/). 
 
 My research focuses on environmental macroeconomics, with an emphasis on the study of the impacts of climate policies. 
 I build heterogeneous agent models to study the drivers of climate policy acceptability.
+
+**News**: 
+- I am the co-recipient, with [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/), of the [2025 FAERE Best Young Economist Paper Award](https://faere.fr/prix-faere-2025-paloma-peligry-et-gregoire-sempre/) for our paper *Climate Policies in the Housing Market*. 
+- In the Spring 2025, I visited the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm, hosted by [John Hassler](http://hassler-j.iies.su.se/).
+
 
 Prior to my doctoral studies, I have been research assistant in multiple french institutions, and worked on an interdisciplinary project to assess the macroeconomic impacts of climate change in Viet Nam. 
 
