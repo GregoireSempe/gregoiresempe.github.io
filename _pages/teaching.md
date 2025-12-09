@@ -15,16 +15,16 @@ _Fall 2024, 2025_
   <summary style="font-weight: bold; cursor: pointer; font-size: 12px;"> Teaching resources...</summary>
     <ul style="color: #3b3b3b; font-size: 0.85em;">
     <li>
-      Introduction to Matlab: <a href="/files/QM1_S0_Matlab_Intro.pdf" style="color: #3b3b3b;">slides</a>
+      Introduction to Matlab and programming: <a href="/files/QM1_S1_Bootcamp1_Matlab.pdf" style="color: #3b3b3b;">slides</a>
     </li>
     <li>
-      Solving the Neoclassical growth model with shooting: <a href="/files/QM1_S1_NGM_shooting.pdf" style="color: #3b3b3b;"> slides</a>
+      Solving the Neoclassical growth model with shooting: <a href="/files/QM1_S2_Bootcamp2_Shooting.pdf" style="color: #3b3b3b;"> slides</a>
     </li>
-    <li>
+    <!-- <li>
       Selections of techniques for Log-Linearization: <i>forthcoming</i> 
-    </li>
+    </li> -->
     <li>
-      Intro to Dynamic Programming and VFI: <a href="/files/QM1_S3_Consav_DP_VFI.pdf" style="color: #3b3b3b;">slides</a>
+      Introduction to Dynamic Programming and Value Function Iteration: <a href="/files/QM1_S3_Bellman-VFI.pdf" style="color: #3b3b3b;">slides</a>
     </li>
     <li>
       Endogenous Grid Method: <i>forthcoming</i> 
@@ -47,7 +47,7 @@ _Spring 2023_
 
 **International Trade**   
 Université Panthéon-Sorbonne - Tutorials for Léa Marchal     
-_Spring 2024_ 
+_Spring 2024, 2026_
 
 **Macroeconomics: Growth Theory (Magistère)**   
 Université Panthéon-Sorbonne - Tutorials for Katheline Schubert   
