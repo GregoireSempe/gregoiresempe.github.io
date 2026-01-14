@@ -14,7 +14,7 @@ My research focuses on environmental macroeconomics, with an emphasis on the stu
 In the Spring 2025, I visited the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm, hosted by [John Hassler](http://hassler-j.iies.su.se/).
 
 **News**: 
-- My co-author [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/) and I are the recipient of the [2025 CEPR Philippe Martin Best Poster Award](https://cepr.org/about/news/2025-philippe-martin-prize-best-student-poster-cepr-paris-symposium) for our paper *[Climate Policies in the Housing Market](/files/PeligrySempe_CPH_dec25.pdf)*. 
+- My co-author [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/) and I are the recipients of the [2025 CEPR Philippe Martin Best Poster Award](https://cepr.org/about/news/2025-philippe-martin-prize-best-student-poster-cepr-paris-symposium) for our paper *[Climate Policies in the Housing Market](/files/PeligrySempe_CPH_dec25.pdf)*. 
 - I am the co-recipient, with [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/), of the [2025 FAERE Best Young Economist Paper Award](https://faere.fr/prix-faere-2025-paloma-peligry-et-gregoire-sempre/) for our paper *[Climate Policies in the Housing Market](/files/PeligrySempe_CPH_dec25.pdf)*. 
 
 
