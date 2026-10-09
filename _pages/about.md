@@ -14,6 +14,7 @@ My research focuses on environmental macroeconomics, with an emphasis on the stu
 In the Spring 2025, I visited the Institute for International Economic Studies ([IIES](https://www.su.se/institute-for-international-economic-studies/)) in Stockholm, hosted by [John Hassler](http://hassler-j.iies.su.se/).
 
 **News**: 
+- I am the co-recipient of the 2026 Banque de France PhD scholarship, and is a Teaching Fellow at Université Paris 1 -- EMS.
 - My co-author [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/) and I are the recipients of the [2025 CEPR Philippe Martin Best Poster Award](https://cepr.org/about/news/2025-philippe-martin-prize-best-student-poster-cepr-paris-symposium) for our paper *[Climate Policies in the Housing Market](/files/PeligrySempe_CPH_dec25.pdf)*. 
 - I am the co-recipient, with [Paloma Péligry](https://www.sciencespo.fr/department-economics/directory/peligry-paloma/), of the [2025 FAERE Best Young Economist Paper Award](https://faere.fr/prix-faere-2025-paloma-peligry-et-gregoire-sempre/) for our paper *[Climate Policies in the Housing Market](/files/PeligrySempe_CPH_dec25.pdf)*. 
 
@@ -25,7 +26,7 @@ I hold a Masters in Economics (APE) from the Paris School of Economics, a B.Sc a
 <!-- ## News
 * I will be visiting Prof. John Hassler at the Institute for International Economic Studies (IIES) in Stockholm between April and July 2025. Feel free to reach out if you're around! -->
 
-Don't hesitate to contact me at [gregoire.sempe(at)psemail.eu](mailto:gregoire.sempe@psemail.eu), and to download my CV [here](/files/resume-gregoire-sempe.pdf).
+Don't hesitate to contact me at [gregoire.sempe(at)psemail.eu](mailto:gregoire.sempe@psemail.eu), and to download my CV [here](/files/CV_GregoireSempe.pdf).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
